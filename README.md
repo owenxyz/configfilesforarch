@@ -8,4 +8,5 @@ my alacritty and .zshrc files use these dependancies:
  - pokemon colorscripts (https://github.com/nuke-dash/pokemon-colorscripts-mac) it does work on linux aswell
  - oh-my-zsh (https://ohmyz.sh)
  - and of course the zsh shell (sudo pacman -S zsh and then chsh /bin/zsh)
- 
+
+please read through my .zshrc file if your planning on using it, as it has some nice aliases that you can use.
