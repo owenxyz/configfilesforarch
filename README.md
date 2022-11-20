@@ -11,6 +11,6 @@ my alacritty and .zshrc files use these dependancies:
  - oh-my-zsh (https://ohmyz.sh)
  - and of course the zsh shell (sudo pacman -S zsh and then chsh /bin/zsh)
 
-please read through my .zshrc file if your planning on using it, as it has some nice aliases that you can use.
+please read through my .zshrc file if your planning on using it, as it has some nice aliases that you can use. (the current theme is 'steeef'
 
-also, i will sometimes forget to update my configs so please be patient with me!
+also, i will sometimes forget to update my configs so please be patient with me !
